@@ -1,0 +1,8 @@
+{
+  "name": "Lumiere",
+  "description": "An AI-powered Socratic Math Tutor that analyzes physical work and provides guiding hints.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
